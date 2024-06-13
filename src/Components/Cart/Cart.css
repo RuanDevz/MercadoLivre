@@ -29,8 +29,7 @@
   border-top: 1px solid #ddd;
   text-align: center;
 }
-
-.cart-items .cart-item:last-child(){
+.cart-items .cart-item:last-child{
   border-bottom: none;
 }
 
